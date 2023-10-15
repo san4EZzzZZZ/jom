@@ -1,0 +1,17 @@
+#controls {
+    margin-top: 20px;
+}
+
+label {
+    display: block;
+    margin-top: 10px;
+}
+
+input {
+    width: 100px;
+    margin: 5px 0;
+}
+
+button {
+    margin-top: 10px;
+}
